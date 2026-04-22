@@ -66,8 +66,4 @@ The dashboard is designed to provide a clear, single-view summary of key metrics
 ## Conclusion
 This project demonstrates how Excel can be effectively used as a business intelligence tool by combining data transformation, modeling, and visualization to generate actionable insights.
 
----
 
-
-- Add advanced KPIs (growth %, trend indicators)  
-- Integrate automation for real-time data updates  
